@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a Ful Stack Project (E-commerce one for my aunt)
+- 🌱 I’m currently learning Data Management
+- 👯 I’m looking to collaborate on Automator projects I am planning to start in a few days.
+- 📫 How to reach me: bsnlkhm@gmail.com
+- 😄 Pronouns: she/her
