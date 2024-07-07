@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently working on a Full Stack Project (E-commerce one for my aunt)
-- 🌱 I’m currently learning Data Management
-- 👯 I’m looking to collaborate on Automator projects I am planning to start in a few days.
+- 🔭 I’m currently working on a ML Project (Emotion detection on text)
+- 🌱 I’m currently learning ML/AI
+- 👯 I’m looking to collaborate on ML/AI/DL projects.
 - 📫 How to reach me: jotamira@outlook.com
