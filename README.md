@@ -38,7 +38,7 @@ I'm actively seeking collaborations on ML/AI/DL projects, particularly those inv
 ## 📫 Get in Touch
 
 - Email: jotamira@outlook.com
-- LinkedIn: Jo Tamir [https://www.linkedin.com/in/jo-tamir/]
+- LinkedIn: [Jo Tamir](https://www.linkedin.com/in/jo-tamir/)
 
 ---
 
