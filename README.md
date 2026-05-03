@@ -4,19 +4,19 @@
 
 I'm a full stack developer with a passion for building intelligent applications.
 
-## 🚀 What I'm Building
+## What I'm Building
 
 - **EmPath** - AI-powered empathy training platform using facial expression analysis and interactive scenarios (Next.js, Node.js, OpenAI, Hume AI)
 - **Full Stack Translation App** - Bridging language barriers with real-time translation
 - **Text Emotion Detection** - ML project analyzing sentiment and emotional context
 
-## 💼 Current Focus
+## Current Focus
 
-- 👨‍💻 Technology & Marketing Director at [CashmereCasa](https://cashmerecasa.com) - luxury e-commerce platform
-- 🤖 Exploring AI/ML applications in web development
-- 📚 Deepening knowledge in machine learning and neural networks
+- Technology & Marketing Director at [CashmereCasa](https://cashmerecasa.com) - luxury e-commerce platform
+- Exploring AI/ML applications in web development
+- Deepening knowledge in machine learning and neural networks
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -27,7 +27,7 @@ I'm a full stack developer with a passion for building intelligent applications.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
 I'm actively seeking collaborations on ML/AI/DL projects, particularly those involving:
 - Natural Language Processing
@@ -35,7 +35,7 @@ I'm actively seeking collaborations on ML/AI/DL projects, particularly those inv
 - Real-time AI applications
 - Full stack implementations with AI integration
 
-## 📫 Get in Touch
+## Get in Touch
 
 - Email: jotamira@outlook.com
 - LinkedIn: [Jo Tamir](https://www.linkedin.com/in/jo-tamir/)
